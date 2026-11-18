@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cf6340de67accfb4f81782eb1dc2b20f
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 373484
+  packageName: Cozy Sheep - Animated Cartoon Character (URP)
+  packageVersion: 1.0
+  assetPath: Assets/Cozy_Sheep/Demo Scene/Bonfire/Shader/FlameShader.shader
+  uploadId: 936160

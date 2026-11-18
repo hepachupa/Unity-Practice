@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 509bff87f63aca94e918b15ded093b2e
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 373484
+  packageName: Cozy Sheep - Animated Cartoon Character (URP)
+  packageVersion: 1.0
+  assetPath: Assets/Cozy_Sheep/Demo Scene/Bonfire/Shader/SparksShader.shader
+  uploadId: 936160

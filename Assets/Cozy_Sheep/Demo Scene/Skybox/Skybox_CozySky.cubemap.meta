@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c664d28e2adf36246a303813c3c077b1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8900000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 373484
+  packageName: Cozy Sheep - Animated Cartoon Character (URP)
+  packageVersion: 1.0
+  assetPath: Assets/Cozy_Sheep/Demo Scene/Skybox/Skybox_CozySky.cubemap
+  uploadId: 936160
